@@ -1,0 +1,32 @@
+{
+  "completed": "2022-03-10T23:19:17.495718Z",
+  "periodic": true,
+  "started": "2022-03-10T23:18:56.327804Z",
+  "versions": [
+    {
+      "filename": "setuptools-60.9.3-py3-none-any.whl",
+      "found_date": "2022-03-10T23:18:56.573978Z",
+      "release_date": "2022-02-18T02:10:09.000000Z"
+    },
+    {
+      "filename": "setuptools-60.9.2-py3-none-any.whl",
+      "found_date": "2022-03-10T23:19:03.257043Z",
+      "release_date": "2022-02-16T13:57:49.000000Z"
+    },
+    {
+      "filename": "setuptools-60.9.1-py3-none-any.whl",
+      "found_date": "2022-03-10T23:19:06.749376Z",
+      "release_date": "2022-02-15T11:21:01.000000Z"
+    },
+    {
+      "filename": "setuptools-60.9.0-py3-none-any.whl",
+      "found_date": "2022-03-10T23:19:09.457353Z",
+      "release_date": "2022-02-14T00:20:04.000000Z"
+    },
+    {
+      "filename": "setuptools-60.8.2-py3-none-any.whl",
+      "found_date": "2022-03-10T23:19:14.288850Z",
+      "release_date": "2022-02-09T17:01:48.000000Z"
+    }
+  ]
+}
